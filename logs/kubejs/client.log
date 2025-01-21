@@ -1,0 +1,14 @@
+[19:13:40] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:13:40] [INIT] Loaded plugins:
+[19:13:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:13:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:13:40] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[19:13:40] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:13:40] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:13:40] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:13:40] [INIT] - com.probejs.ProbeJSPlugin
+[19:13:40] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[19:13:40] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[19:13:40] [INFO] Loaded script client_scripts:example.js in 0.002 s
+[19:13:40] [INFO] Loaded 1/1 KubeJS client scripts in 0.018 s with 0 errors and 0 warnings
+[19:13:46] [INFO] Client resource reload complete!
