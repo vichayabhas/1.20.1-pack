@@ -33,7 +33,9 @@
 #840F59 minecraft:bedrock
 #7F50F6 minecraft:bell
 #0DAEDB gtceu:bio_hazard_sign_block
+#B152E8 minecraft:black_wool
 #C3053E gtceu:blue_alloy_quadruple_cable
+#87B36D minecraft:blue_wool
 #24ECAC mekanism:boiler_casing
 #4976CB mekanism:boiler_valve
 #FF7E00 gtceu:boss_hazard_sign_block
@@ -176,6 +178,7 @@
 #2C2269 gtceu:hssg_double_cable
 #8CB5A0 gtceu:hssg_single_cable
 #3616F6 gtceu:hssg_single_wire
+#903DC1 integratedrest:http
 #546EF1 gtceu:huge_duct_pipe
 #CCD281 gtceu:hv_1a_energy_converter
 #57DB31 gtceu:hv_battery_buffer_16x
@@ -187,6 +190,7 @@
 #4C3E54 gtceu:hv_input_hatch
 #322A74 gtceu:hv_item_passthrough_hatch
 #3BD212 gtceu:hv_mixer
+#66EA8D gtceu:hv_output_bus
 #56378D gtceu:hv_output_hatch
 #9B9701 gtceu:hv_transformer_1a
 #9B9720 gtceu:hv_transformer_2a
@@ -260,6 +264,7 @@
 #C74222 gtceu:luv_transformer_1a
 #C7427F gtceu:luv_transformer_4a
 #4F6C76 gtceu:lv_battery_buffer_4x
+#4F6CF2 gtceu:lv_battery_buffer_8x
 #E8309A gtceu:lv_canner
 #494B04 gtceu:lv_chemical_reactor
 #419010 gtceu:lv_diode
@@ -303,6 +308,8 @@
 #A4FC4B minecraft:mossy_cobblestone
 #38AE7D minecraft:moving_piston
 #28CAA5 gtceu:mv_air_scrubber
+#54A6B6 gtceu:mv_battery_buffer_16x
+#F14351 gtceu:mv_battery_buffer_8x
 #C08CBE gtceu:mv_electrolyzer
 #B89B24 gtceu:mv_energy_input_hatch
 #1B1A02 gtceu:mv_fluid_heater
@@ -331,7 +338,9 @@
 #331F41 mcwbridges:oak_log_bridge_middle
 #3DBEAB mcwbridges:oak_log_bridge_stair
 #E3886A minecraft:oak_planks
+#E98247 mcwbridges:oak_rail_bridge
 #F89B31 mcwbridges:oak_rope_bridge_stair
+#374556 minecraft:oak_sign
 #374FD3 minecraft:oak_slab
 #72BC63 minecraft:oak_stairs
 #855CF4 minecraft:oak_trapdoor
@@ -354,6 +363,7 @@
 #399C19 gtceu:powderbarrel
 #111BD4 mekanism:pressure_disperser
 #5F0D54 mekanism:pressurized_reaction_chamber
+#5F2CE7 integrateddynamics:proxy
 #6F3B9C gtceu:ptfe_pipe_casing
 #057101 mekanism:quantum_entangloporter
 #A70271 gtnn:radiation_proof_machine_casing
@@ -373,6 +383,7 @@
 #03F70A gtceu:research_station
 #BFD0EA gtceu:reservoir_hatch
 #74006B mekanism:resistive_heater
+#5C0EF3 mcwbridges:rope_oak_bridge
 #879B54 mekanism:rotary_condensentrator
 #10781F gtceu:rtm_alloy_coil_block
 #FC18D5 gtceu:ruthenium_trinium_americium_neutronate_double_wire
@@ -393,7 +404,10 @@
 #01BD80 gtceu:stainless_steel_normal_fluid_pipe
 #E197A4 gtceu:steel_pipe_casing
 #3A984F gtceu:sterilizing_filter_casing
+#0602B8 mcwbridges:stone_brick_bridge
+#B21185 minecraft:stone_brick_slab
 #F8955F minecraft:stone_bricks
+#5AA646 rftoolsstorage:storage_scanner
 #A88E8E minecraft:stripped_oak_wood
 #5E72B7 mekanism:structural_glass
 #CCB5AF gtceu:superconducting_coil
@@ -472,6 +486,7 @@
 #88A5C6 minecraft:wet_sponge
 #B7775E minecraft:white_bed
 #BC20FE minecraft:white_wool
+#541F28 ae2:wireless_access_point
 #A4B5D5 gtceu:wood_frame
 #97FF93 minecraft:yellow_wool
 #8DE216 gtceu:zpm_energy_input_hatch
