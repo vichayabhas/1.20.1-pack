@@ -19,6 +19,8 @@
 #D875AC gtceu:assembly_line_grating
 #D6A450 gtceu:assembly_line_unit
 #0791FE gtceu:auto_maintenance_hatch
+#43D1EF minecraft:bamboo_planks
+#566F03 mcwroofs:bamboo_planks_top_roof
 #189B99 minecraft:barrel
 #18D108 minecraft:basalt
 #F03BD3 gtceu:basaltic_mineral_sand_indicator
@@ -60,6 +62,7 @@
 #69431E gtceu:cleanroom
 #0A229B gtceu:cleanroom_glass
 #84EDE1 gtceu:coal_indicator
+#2848C0 minecraft:cobbled_deepslate
 #058353 minecraft:cobblestone
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
@@ -92,6 +95,7 @@
 #C7F894 gtceu:data_access_hatch
 #418F9F gtceu:data_receiver_hatch
 #E1B917 gtceu:data_transmitter_hatch
+#5E9420 minecraft:deepslate
 #5A35D5 minecraft:diamond_block
 #60995E gtceu:diamond_indicator
 #80497A minecraft:dirt
@@ -204,6 +208,7 @@
 #E5B3DC mekanism:induction_port
 #DC76EE gtceu:industrial_tnt
 #9D871C gtceu:inert_machine_casing
+#8E9B05 minecraft:infested_deepslate
 #D7B7C0 expatternprovider:ingredient_buffer
 #23066B ae2:interface
 #2E2249 minecraft:iron_block
@@ -310,6 +315,7 @@
 #28CAA5 gtceu:mv_air_scrubber
 #54A6B6 gtceu:mv_battery_buffer_16x
 #F14351 gtceu:mv_battery_buffer_8x
+#8DDC10 gtceu:mv_buffer
 #C08CBE gtceu:mv_electrolyzer
 #B89B24 gtceu:mv_energy_input_hatch
 #1B1A02 gtceu:mv_fluid_heater

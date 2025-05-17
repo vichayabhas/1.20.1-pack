@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","gtceu:dynamic_assets","file/Gregtech-CEu-Modern-Programmer-art.zip","file/ClassicMekTexutres.zip","file/Power of Sounds 1.1"]
+resourcePacks:["vanilla","mod_resources","gtceu:dynamic_assets","file/Power of Sounds 1.1"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
